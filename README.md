@@ -8,10 +8,10 @@ _________________
 
 💻 Software Developer<br>
 🇧🇷 Uberlândia, Brazil<br>
-🧑🏼‍🎓 Graduating in Information Systems ([UFU](http://ufu.br))
+🧑🏼‍🎓 Graduating in Information Systems ([UFU](http://www.ufu.br))
 
 <center>
-<table border="none">
+<table>
     <tr>
         <td><img width="400px" valign="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspsw&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="400px" valign="center" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciuspsw&theme=buefy"/></td>
